@@ -1,1 +1,2 @@
-# NFT_final_project
+This is NFT website made using laravel
+creator - Tsion Moges
